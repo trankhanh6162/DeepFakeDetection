@@ -40,7 +40,7 @@ python predict.py --video_path test_video.mp4 --model_path best_model.pth
 Mô hình được sử dụng là `Xception`, tải sẵn trọng số ImageNet và tinh chỉnh trên tập dữ liệu deepfake.
 
 ## Liên hệ
-Nếu có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ qua email: `tini.vu.0@gmail.com`
+Nếu có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ qua email: `khanhtran004@gmail.com`
 
 
 ## Kết quả huấn luyện
